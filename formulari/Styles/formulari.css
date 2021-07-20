@@ -1,0 +1,19 @@
+.border-danger {
+    border: 3px solid red;
+    border-radius: 5px;
+}
+.border-success {
+    border: 3px solid green;
+    border-radius: 5px;
+}
+
+.camp :focus {
+    background: orange;
+}
+
+.fade-enter-active, .fade-leave-active {
+    transition: opacity .5s
+  }
+  .fade-enter, .fade-leave-to {
+    opacity: 0
+  }
